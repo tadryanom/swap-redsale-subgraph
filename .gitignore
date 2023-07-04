@@ -1,0 +1,4 @@
+redswap/build/
+redswap/generated/
+redswap/node_modules/
+redswap/yarn.lock
